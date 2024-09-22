@@ -4,7 +4,8 @@ In the code I've used ffmpeg tool and pydub for python.
 
 Starting from the V2 because in first version was no possibility to choose the bitrate.
 
-P.S. 1. I'm not sure that I'll be uprading this project, time will show.
+P.S.
+     1. I'm not sure that I'll be uprading this project, time will show.
 
      2. Please make sre that you have ffmpeg.exe and ffprobe.exe tools in the same folder with the script.
 
