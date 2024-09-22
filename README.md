@@ -1,4 +1,4 @@
-I've made this project just for fun. To split audio from the videos I'm making on my phone.
+I've made this project just for fun. To split audio from the videos I'm making by my phone.
 
 In the code I've used ffmpeg tool and pydub for python.
 
